@@ -1,8 +1,5 @@
 # SWANCHAIN AUTO REF
 
-# autorevox
-Auto ref và claim kèo Revox
-
 # Bước 1 
 Download và cài đặt Python3 : https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe
 
